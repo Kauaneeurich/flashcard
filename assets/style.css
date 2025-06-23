@@ -1,0 +1,10 @@
+body {
+background-color: rgba(89, 187, 243, 0.85);
+}
+footer {
+background-color: rgb(188, 149, 246);
+color: white;
+bottom:0;
+position:fixed;
+width:100%;
+}
