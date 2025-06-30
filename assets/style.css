@@ -13,6 +13,11 @@ height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
 }
+.cartao__conteudo h3 {
+background-color: rgb(218, 42, 189);
+text-align: left;
+padding: 0.5rem;
+}
 
 footer {
 background-color: rgb(176, 128, 248);
