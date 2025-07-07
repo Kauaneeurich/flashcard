@@ -54,6 +54,12 @@ font-weight: 700;
 transform: rotateY(180deg);
 }
 
+.cartao__conteudo__pergunta,
+.cartao__conteudo__resposta {
+backface-visibility: hidden;
+}
+
+
 footer {
 background-color: rgb(176, 128, 248);
 color: rgb(8, 0, 0);
