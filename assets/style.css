@@ -1,5 +1,5 @@
 :root {
---text-color: #c516e46d;
+--text-color: #0c0c0c;
 --card-front-color: #f21ed2b5;
 --card-back-color: #c6076794;
 }
@@ -49,7 +49,7 @@ font-weight: 700;
 
 footer {
 background-color: rgb(176, 128, 248);
-color: white;
+color: rgb(8, 0, 0);
 bottom:0;
 position:fixed;
 width:100%;
