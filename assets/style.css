@@ -14,7 +14,7 @@ display:flex ;
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgba(255, 0, 204, 0.421);
+background-color: rgba(53, 66, 163, 0.556);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
@@ -66,7 +66,7 @@ transform: rotateY(180deg);
 
 
 footer {
-background-color: rgb(176, 128, 248);
+background-color: rgb(37, 43, 217);
 color: rgb(8, 0, 0);
 bottom:0;
 position:fixed;
