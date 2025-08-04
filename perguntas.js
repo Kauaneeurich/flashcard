@@ -1,7 +1,7 @@
 criaCartao(
     'Geografia',
     'Onde se localiza Machu Picchu?'
-    'Se localiza no Peru'
+    'Se localiza no Peru.'
 )
 
 criaCartao(
@@ -13,10 +13,10 @@ criaCartao(
 criaCartao(
     'Geografia',
     'qual  a capital da Cuba?',
-    'A capital da Cuba é Havana'
+    'A capital da Cuba é Havan.'
 )
     criaCartao(
     'Geografia',
     'Quantos continentes existem?',
-    'Existem 6 continentes'
+    'Existem 6 continentes.'
 )
